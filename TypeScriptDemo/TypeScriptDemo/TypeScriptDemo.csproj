@@ -98,6 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="DemoEnd\helpers.ts" />
+    <TypeScriptCompile Include="DemoStart\helpers.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery.color\jquery.color.d.ts" />
     <TypeScriptCompile Include="Scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
